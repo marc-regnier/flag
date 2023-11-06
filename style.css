@@ -34,6 +34,19 @@
     height: 50px;
 }
 
+.crossone{
+    width: 20px;
+    height: 100px;
+    margin-left: 35px;
+}
+
+.crosstwo {
+    width: 150px;
+    height: 20px;
+   margin-top: 30px;
+   position: absolute;
+}
+
 .blue {
     background-color: blue;
     
@@ -58,4 +71,16 @@
 
 .azure {
     background-color: #51ADDA;
+}
+
+.green{
+    background-color: green;
+}
+
+.orange {
+    background-color: orange;
+}
+
+.cobalt{
+    background-color: #002B7F;
 }
