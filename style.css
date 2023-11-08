@@ -36,6 +36,11 @@
     height: 50px;
 }
 
+.flagspain {
+    width: 150px;
+    height: 100px;
+}
+
 .crossone{
     width: 20px;
     height: 100px;
@@ -96,6 +101,10 @@
 
 .blue_iceland {
     background-color: #02529C;
+}
+
+.blue_estonia{
+    background-color: #0072CE;
 }
 
 .white{
