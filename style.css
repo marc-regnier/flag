@@ -89,6 +89,30 @@
     
 }
 
+.flag_square {
+    height: 100px;
+    width: 100px;
+    border: 1px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+}
+
+.cross_swiss1{
+    height: 55px;
+    width: 20px;
+    position: absolute;
+    z-index: 2;
+}
+
+.cross_swiss2{
+    height: 20px;
+    width: 55px;
+    position: absolute;
+    z-index: 3;
+}
+
 
 .blue {
     background-color: blue;
@@ -105,6 +129,10 @@
 
 .blue_estonia{
     background-color: #0072CE;
+}
+
+.blue_ukraine{
+    background-color: #0057B7;
 }
 
 .white{
@@ -139,3 +167,4 @@
 .cobalt{
     background-color: #002B7F;
 }
+
